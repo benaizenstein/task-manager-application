@@ -1,4 +1,6 @@
 # task-manager-application server side CRUD
+<h2>I recommend using Postman to test the app </h2>
+<h3>https://aizenstein-task-manager-app.herokuapp.com/</h3>
 <p>npm test</p>
 <p>npm run dev</p>
 <span><strong>express</strong></span>
